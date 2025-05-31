@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
 # contributor: Xah Lee (XahLee.org)
 # name: and
-# key: and
-# key: a
+# key: ;and
+# key: ;a
 # --
 (and $0)
