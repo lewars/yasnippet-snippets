@@ -1,0 +1,15 @@
+# -*- mode: snippet -*-
+# name: Hugo KB Entry
+# key: ;kb
+# group: org
+# --
+#+title: ${1:Document Title}
+#+author: Alistair Lewars
+#+hugo_base_dir: ../..
+#+hugo_section: docs/${2:topic}
+#+hugo_categories: ${2}
+#+date: `(format-time-string "%Y-%m-%d")`
+
+* ${1}
+
+$0
