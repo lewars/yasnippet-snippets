@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
 # name: setup
-# key: set
+# key: ;set
 # --
 #+setupfile: $0

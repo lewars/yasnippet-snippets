@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
 # name: generate uuid
-# key: uuid_
+# key: ;uuid_
 # --
 `(org-id-uuid)`
